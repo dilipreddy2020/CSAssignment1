@@ -1,0 +1,14 @@
+RM101    Jack Smith   5:0     1/11/2016
+RM102    Mary Lee   8:0     1/1/2016
+RM103    Jason Man   8:0     1/19/2016
+RM104    Tom Kelly   13:0     1/21/2016
+RM106    Jane Dinger   15:0     1/18/2016
+RM107    Ken Swanson   7:0     1/28/2016
+RM201    Jim Steven   16:0     1/19/2016
+RM202    Ann Yan   18:0     2/1/2016
+RM205    Ellen Brown   6:0     1/16/2016
+RM208    Justin Pack   11:0     1/22/2016
+RM303    Martin Lisk   7:0     1/8/2016
+RM304    Tom Kelly   13:0     1/2/2016
+RM306    Sue Wilson   9:0     1/20/2016
+RM308    Brian Sun   9:0     1/15/2016

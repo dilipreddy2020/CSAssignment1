@@ -1,0 +1,8 @@
+RM101    Jack Smith   5:0     1/11/2016
+RM102    Mary Lee   8:0     1/1/2016
+RM104    Tom Kelly   13:0     1/21/2016
+RM106    Jane Dinger   15:0     1/18/2016
+RM205    Ellen Brown   6:0     1/16/2016
+RM303    Martin Lisk   7:0     1/8/2016
+RM304    Tom Kelly   13:0     1/2/2016
+RM308    Brian Sun   9:0     1/15/2016
